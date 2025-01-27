@@ -2,7 +2,8 @@ section {
     background-color: black;
     color: white;
     font: normal 16pt arial;
-    max-width: 600px;
+    max-width: 300px;
+   
     margin: auto;
     border-radius: 12px;
     padding: 10px;
