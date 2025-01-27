@@ -12,6 +12,8 @@ function calcularCreatina() {
     }else {
         res.innerHTML = `voce precisa de ${calculo.toFixed(2)}g de creatina`
             res.style.backgroundColor = 'orange'
+            res.style.borderRadius = '10px'
+            
     }
   
    

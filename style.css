@@ -1,3 +1,10 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 section {
     background-color: black;
     color: white;
@@ -6,7 +13,7 @@ section {
    
     margin: auto;
     border-radius: 12px;
-    padding: 10px;
+    padding: 14px;
     text-align: center;
 
 }
@@ -25,6 +32,10 @@ input {
     font: normal 10pt arial;
     cursor: pointer;
     
+}
+#res {
+    width: 100%;
+    margin: auto;
 }
 
 label {
