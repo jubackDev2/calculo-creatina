@@ -2,7 +2,7 @@ section {
     background-color: black;
     color: white;
     font: normal 16pt arial;
-    width: 600px;
+    max-width: 600px;
     margin: auto;
     border-radius: 12px;
     padding: 10px;
