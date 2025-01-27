@@ -1,0 +1,33 @@
+section {
+    background-color: black;
+    color: white;
+    font: normal 16pt arial;
+    width: 600px;
+    margin: auto;
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+
+}
+input {
+    border-radius: 15px;
+    border: none;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+}
+#calcular {
+    margin: 10px;
+    width: 100px;
+    background-color: orange;
+    color: rgb(77, 76, 76);
+    font: normal 10pt arial;
+    cursor: pointer;
+    
+}
+
+label {
+    margin: 10px;
+    text-align: center;
+    display: block;
+}
